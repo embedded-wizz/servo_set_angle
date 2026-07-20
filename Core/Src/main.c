@@ -108,7 +108,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
+// git commit attempt
 	  servo_set_angle(0);
 	  HAL_Delay(2000);
 	  servo_set_angle(180);
